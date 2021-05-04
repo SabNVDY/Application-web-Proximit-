@@ -1,4 +1,4 @@
-# Application-web-Proximit-
+# Application-web-Proximité
 Après installation de Symfony exécuter ces commandes:
 
 composer install
